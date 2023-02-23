@@ -10,7 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "crawler": "^1.2.0",
-    "sequelize": "^5.15.1",
+    "sequelize": "^6.28.2",
     "tedious": "^5.0.3"
   }
 }
