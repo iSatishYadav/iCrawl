@@ -9,7 +9,7 @@
   "author": "Satish K. Yadav",
   "license": "ISC",
   "dependencies": {
-    "crawler": "^1.2.0",
+    "crawler": "^1.4.0",
     "sequelize": "^6.29.0",
     "tedious": "^16.1.0"
   }
