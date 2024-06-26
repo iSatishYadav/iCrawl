@@ -11,6 +11,6 @@
   "dependencies": {
     "crawler": "^2.0.0",
     "sequelize": "^6.29.0",
-    "tedious": "^16.7.1"
+    "tedious": "^18.2.1"
   }
 }
